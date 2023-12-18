@@ -62,8 +62,8 @@ include 'init.php';
 // // End of DELETE Query ///////////////////
 
 
-$rows = DB::orderBy(["USERNAME" => "DESC"])->limit(2)->selectAll("users");
-foreach ($rows as $key => $value) {
+// $rows = DB::orderBy(["USERNAME" => "DESC"])->limit(2)->selectAll("users");
+// foreach ($rows as $key => $value) {
 
-    echo $value['USERNAME'] . "<br>";
-}
+//     echo $value['USERNAME'] . "<br>";
+// }
