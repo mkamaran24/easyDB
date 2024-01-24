@@ -6,6 +6,10 @@ you can copy codes here, and paste it in your codes,
 then use it as you like :)
 */
 
+// test 
+// test 2
+// test3
+
 // Config File ////////////////
 include 'init.php';
 // End of Config File ////////
