@@ -88,4 +88,4 @@ DB::deleteByID("table_name", $unique_id);
 
 # Note
 
-please dont use this module in production eviroment, happy coding my dear :)
+please dont use this module in production eviroment, happy coding my dears :)
